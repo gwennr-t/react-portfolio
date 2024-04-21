@@ -1,3 +1,26 @@
+# React Portfolio
+
+## Description
+This is a... 
+
+## Demo Video/ Screenshots
+[Demo Video]()
+
+## Installation
+Access the React Portfolio by... 
+
+Additions can be made by:
+- 
+
+## Technology Used/ Credits
+ This application utlizes... 
+ 
+ Resources from class repo, Stack Overflow, and W3Schools were utilized to support creation of this application.
+
+The following resources were specifically referenced and used:
+- []()
+
+----------------------------------------------------------
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
