@@ -2,10 +2,11 @@ import { useState } from 'react';
 
 function Project() {
 
-    return
-    <div>
+    return(
+        <div>
         
-    </div>
+        </div>
+    );
 }
 
 export default Project;
