@@ -1,12 +1,15 @@
 import React from "react";
+import Header from 'Header',
+import Footer from 'Footer'
 
 function Project() {
   return (
+    <div>
+      <Header />
     <div className='projectSection'>
       <div className="sectionTitle">
         <h2>Projects</h2>
       </div>
-
       <div>
         <div className="card">
           <a
@@ -48,7 +51,8 @@ function Project() {
           </a>
         </div>
       </div>
-
+    </div>
+    <Footer />
     </div>
   );
 }
