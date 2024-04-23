@@ -13,11 +13,8 @@ Access the my portfolio by using this [URL]().
 To use the web application locally clone the repository, run npm i in the terminal, and then enter npm start in the terminal.
 
 ## Technology Used/ Credits
- This application utlizes 
- 
- Resources from class repo, Stack Overflow, and W3Schools were utilized to support creation of this application.
+  Resources from class repo, Stack Overflow, and W3Schools were utilized to support creation of this application.
 
 The following resources were specifically referenced and used:
 - [React](https://react.dev/)
 - [Netlify](https://www.netlify.com/)
-- 
