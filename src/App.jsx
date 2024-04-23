@@ -1,10 +1,13 @@
 import './App.css';
-import Portfolio from './components/Portfolio';
+import Header from './components/Header';
+import Footer from './components/Footer';
 
 function App() {
   return (
-    <div className='portfolioApp'>
-      <Portfolio />
+    <div>
+      <Header />
+
+      <Footer />
     </div>
   );
 }

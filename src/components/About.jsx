@@ -1,11 +1,7 @@
 import React from "react";
-import Header from 'Header';
-import Footer from 'Footer';
 
 function About() {
   return (
-    <div>
-      <Header />
       <div className="aboutMe">
         <div id="aboutMeTitle">
           <h2>About Me</h2>
@@ -27,8 +23,6 @@ function About() {
           </p>
         </div>
       </div>
-      <Footer />
-    </div>
   );
 }
 

@@ -1,11 +1,7 @@
 import React from "react";
-import Header from "Header";
-import Footer from "Footer";
 
 function Resume() {
   return (
-    <div>
-      <Header />
       <div className="resume">
         <div id="resumeTitle">
           <h2>Resume</h2>
@@ -36,8 +32,6 @@ function Resume() {
           </ul>
         </div>
       </div>
-      <Footer />
-    </div>
   );
 }
 
