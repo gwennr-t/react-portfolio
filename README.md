@@ -1,31 +1,23 @@
 # React Portfolio
 
 ## Description
-This is a... 
+Welcome to my portfolio! This web application was created using [React](https://react.dev/) and is deployed using [Netlify](https://www.netlify.com/). This is a single-page application. My portfolio contains an about me, work samples, resume, and contact form. 
 
-## Demo Video/ Screenshots
-[Demo Video]()
+## Live Site
+
+## Preview
 
 ## Installation
-Access the React Portfolio by... 
+Access the my portfolio by using this [URL]().
 
-Additions can be made by:
-- 
+To use the web application locally clone the repository, run npm i in the terminal, and then enter npm start in the terminal.
 
 ## Technology Used/ Credits
- This application utlizes... 
+ This application utlizes 
  
  Resources from class repo, Stack Overflow, and W3Schools were utilized to support creation of this application.
 
 The following resources were specifically referenced and used:
-- []()
-
-----------------------------------------------------------
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://react.dev/)
+- [Netlify](https://www.netlify.com/)
+- 
